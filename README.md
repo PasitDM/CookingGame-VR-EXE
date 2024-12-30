@@ -38,9 +38,5 @@ A Virtual Reality cooking game developed through the international collaboration
 - **Academic Project**: Computer Science, Kasetsart University
 - **Year**: 2019
 
-## ⚡ Quick Links
-- [Watch Game Trailer](https://www.youtube.com/watch?v=GLTwOGsafnc)
-- [Watch Gameplay Demo](https://www.youtube.com/watch?v=tMMyDYpPr9g)
-
 ---
 *This project was developed as part of an international internship program between Kasetsart University and Dongseo University.*
