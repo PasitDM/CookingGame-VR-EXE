@@ -43,6 +43,18 @@ A Virtual Reality cooking game developed through the international collaboration
 - Unity Asset Store (Character Models)
 - Version Control: GitHub
 
+### Core Game Systems
+<table>
+  <tr>
+    <td><img src="gameflowdiagram.png" alt="Game Flow & Scenes"/></td>
+    <td><img src="gameplay.png" alt="Cooking Mechanics"/></td>
+  </tr>
+  <tr>
+    <td><img src="rewardsystem.png" alt="Reward System"/></td>
+    <td><img src="customer.png" alt="Characters & UI"/></td>
+  </tr>
+</table>
+
 ## 📸 Game Preview
 <table>
   <tr>
